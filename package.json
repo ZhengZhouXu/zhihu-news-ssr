@@ -1,0 +1,11 @@
+{
+  "name": "zhihu-news-ssr",
+  "version": "1.0.0",
+  "description": "zhihu-news by vue srr",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "xuxule",
+  "license": "ISC"
+}
